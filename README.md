@@ -1,5 +1,5 @@
 # Markdown-tests
-
+![Alt text](https://avatars2.githubusercontent.com/u/6313703?v=3&s=40)
 #### <a href="#anchorLink">Anchor link</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="#anchorLink2">Anchor link2</a>
 
