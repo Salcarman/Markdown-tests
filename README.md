@@ -1,6 +1,6 @@
 # Markdown-tests
 
-#### <a href="README.md#anchorLink">Anchor link</a>
+#### <a href="#anchorLink">Anchor link</a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit quam at mi luctus, at suscipit dolor sollicitudin. Etiam lobortis, magna quis consectetur euismod, enim libero elementum elit, vitae porttitor dolor lorem a est. Cras rhoncus laoreet dolor malesuada commodo. Nullam ultricies mi et nisi venenatis, in dictum sapien pellentesque. Aenean molestie augue id orci accumsan, at feugiat justo cursus. Sed nec elit nisl. Aliquam commodo magna auctor, dapibus erat eget, egestas est. Ut nec purus condimentum nisi tempor fermentum. Fusce eros dui, volutpat quis rutrum non, consequat ac sapien. Ut varius nisl erat, eget rhoncus orci accumsan eget. Praesent posuere rutrum feugiat. Praesent in egestas eros. Aliquam auctor quis risus id imperdiet. Ut maximus ultrices tempus. Ut aliquet tempor felis, at commodo leo ullamcorper at. Praesent molestie nibh sit amet elit aliquam, a gravida neque condimentum.
 
