@@ -7,8 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit quam at 
 
 Praesent tincidunt accumsan sodales. Praesent sit amet blandit elit. Mauris et mi nec dolor vehicula blandit. Morbi lorem urna, lobortis suscipit feugiat vel, bibendum in ex. Nullam tortor nibh, convallis at convallis eget, ornare ac quam. Nullam tempus leo eget tortor eleifend, et aliquam mauris lacinia. Nulla facilisi. Donec vestibulum, leo non imperdiet vestibulum, nibh orci consectetur turpis, at luctus nibh quam eget justo. Praesent nulla justo, maximus vitae consectetur placerat, consectetur nec lacus. Sed aliquet tristique nisi ac ornare. Donec at sem mattis, maximus purus a, laoreet metus. Donec consequat at magna ac posuere. In vehicula varius gravida. Praesent lacinia in risus id ornare. Suspendisse potenti. Nam imperdiet tristique odio, non mattis est blandit quis.
 
-<p style="text-align: justify">
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam auctor mollis nisi sit amet commodo. Mauris vel tincidunt diam, vitae gravida nulla. Sed sollicitudin dictum egestas. Quisque nec tortor maximus, sagittis massa sed, cursus est. Integer non leo pulvinar, porttitor elit ut, egestas dui. Vestibulum ex orci, euismod vulputate quam blandit, gravida mattis tellus.</p>
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam auctor mollis nisi sit amet commodo. Mauris vel tincidunt diam, vitae gravida nulla. Sed sollicitudin dictum egestas. Quisque nec tortor maximus, sagittis massa sed, cursus est. Integer non leo pulvinar, porttitor elit ut, egestas dui. Vestibulum ex orci, euismod vulputate quam blandit, gravida mattis tellus.
 
 <a name="anchorLink">Anchor link</a>
 Testing Markdown support
